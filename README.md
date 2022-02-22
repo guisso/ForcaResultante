@@ -1,2 +1,2 @@
 # Ponto
-Java Standard Edition fundamentals exemplified by the Ponto class.
+Java Standard Edition fundamentals exemplified by the Ponto and ForcaResultante classes.
